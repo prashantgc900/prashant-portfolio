@@ -305,6 +305,7 @@ section {
 /*Experience Section*/
 #experience {
   position: relative;
+  height: fit-content;
 }
 
 .experience-sub-title {
@@ -316,8 +317,8 @@ section {
 
 .experience-details-container {
   display: flex;
-  justify-content: center;
   flex-direction: column;
+  justify-content: center;
 }
 
 .article-container {
