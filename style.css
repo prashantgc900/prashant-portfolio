@@ -306,6 +306,7 @@ section {
 #experience {
   position: relative;
   height: fit-content;
+  margin-top: 50px;
 }
 
 .experience-sub-title {
@@ -345,6 +346,7 @@ article .icon {
 #projects {
   position: relative;
   height: fit-content;
+  margin-top: 50px;
 }
 
 .color-container {
